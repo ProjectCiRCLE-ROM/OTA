@@ -1,0 +1,13 @@
+# How to use this repo
+
+Each folder contains data used by the updater.
+
+`changelog` is used for the changelog accessible via top right three dots > Show changelog.
+
+`json` is used for OTA update JSON files. These files are fetched by the updater to display to the user the updates available to them. You can generate your OTA JSON after building using the createjson.sh script.
+
+`manual-update` is used for instructing the user on manually installing an update in case we block an update from being installed automatically.
+
+In each folder, you need to replace the word `template` with your device codename. For example: `changelog/m34x.txt`, `json/m34x.json`, `json/m34x_gms.json`, `manual-update/m34x.txt`
+
+The difference between `template.json` and `template_gms.json`is that `template.json` is for vanilla builds and `template_gms.json` is for GMS builds (builds run using `WITH_GMS=true`). The switch is handled automatically using an RRO overlay.
