@@ -1,0 +1,16 @@
+{
+  "response": [
+    {
+      "datetime": "1782420579",
+      "filename": "ProjectCiRCLE-1.0-20260625_204947-BETA-GAPPS-m34x.zip",
+      "id": "b9a0b90be85de465feac3bcb90910540",
+      "romtype": "BETA",
+      "size": 2035170190,
+      "support": false,
+      "url": "https://sourceforge.net/projects/project-circle/files/m34x/GAPPS/ProjectCiRCLE-1.0-20260625_204947-BETA-GAPPS-m34x.zip/download",
+      "version": "1.0.0",
+      "updater": true,
+      "maintainer": "kurtbahartr"
+    }
+  ]
+}
