@@ -1,0 +1,16 @@
+{
+  "response": [
+    {
+      "datetime": "1782464675",
+      "filename": "ProjectCiRCLE-1.0-20260626_090753-BETA-VANILLA-m34x.zip",
+      "id": "71c3d1e1077a203d9b7120292c0e04d7",
+      "romtype": "BETA",
+      "size": 1262023621,
+      "support": false,
+      "url": "https://sourceforge.net/projects/project-circle/files/m34x/VANILLA/ProjectCiRCLE-1.0-20260626_090753-BETA-VANILLA-m34x.zip/download",
+      "version": "1.0.0",
+      "updater": true,
+      "maintainer": "kurtbahartr"
+    }
+  ]
+}
