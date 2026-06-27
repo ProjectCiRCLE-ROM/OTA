@@ -5,6 +5,7 @@ ylw='\033[0;33m'             #  yellow
 blu='\033[0;34m'             #  blue
 ppl='\033[0;35m'             #  purple
 cya='\033[0;36m'             #  cyan
+res='\033[0m'                #  reset
 rom_zip=$(ls -tr "$OUT"/ProjectCiRCLE-*.zip | tail -1)
 
 echo "# GENERATING OTA JSON #" 1>&2
@@ -25,4 +26,4 @@ echo "    }"
 echo "  ]"
 echo "}"
 echo " "
-echo -e ${grn}"DONE!" 1>&2
+echo -e ${grn}"DONE!${res}" 1>&2
