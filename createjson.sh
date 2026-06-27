@@ -25,5 +25,4 @@ echo '      "maintainer":' "\"$(get_build_var CIRCLE_MAINTAINER | sed 's/ .*//')
 echo "    }"
 echo "  ]"
 echo "}"
-echo " "
 echo -e ${grn}"DONE!${res}" 1>&2
