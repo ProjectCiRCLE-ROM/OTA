@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": "1782529819",
-      "filename": "ProjectCiRCLE-1.0-20260627_031325-BETA-GAPPS-m34x.zip",
-      "id": "29c8b9b7fb04a30c4f70af7c4c603897",
+      "datetime": "1782675042",
+      "filename": "ProjectCiRCLE-1.0-20260628_193047-BETA-GAPPS-m34x.zip",
+      "id": "b98aadcc7b2a51a9a63fa867d77c4614",
       "romtype":"BETA",
-      "size": 2066338917,
+      "size": 2058980382,
       "support": false,
-      "url": "https://sourceforge.net/projects/project-circle/files/m34x/GAPPS/ProjectCiRCLE-1.0-20260627_031325-BETA-GAPPS-m34x.zip/download",
+      "url": "https://sourceforge.net/projects/project-circle/files/m34x/GAPPS/ProjectCiRCLE-1.0-20260628_193047-BETA-GAPPS-m34x.zip/download",
       "version": "1.0.0",
       "updater": true,
       "maintainer": "kurtbahartr"

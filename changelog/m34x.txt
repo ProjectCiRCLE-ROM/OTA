@@ -1,23 +1,11 @@
 Project CiRCLE v1.0-Beta2
-Build date: 27/06/2026
+Build date: 28/06/2026
 Changelogs:
-- Imported ringtones, notification sound and alarm sound from Project Kasumi v2. Now the defaults are as follows:
-  - Ringtone: Sasanqua (Afterglow)
-  - Notification sound: Your Gift To Me (Poppin'Party)
-  - Alarm sound: Your Gift To Me (Poppin'Party)
-  Other than Sasanqua, the following ringtones were imported:
-  - Bloom Bloom (Morfonica)
-  - CiRCLE THANKS MUSiC♪ (CiRCLE THANKS PARTY! Special Band)
-  - DRIVE US CRAZY (RAISE A SUILEN)
-  - Introduction (Poppin'Party)
-  - Kyu~mai＊flower (Pastel*Palettes)
-  - Hitoshizuku (MyGO!!!!!)
-  - Ringing Bloom (Roselia)
-  - Shuwarin☆Dreaming (Pastel*Palettes)
-  - Smile x Smile = Hyper Smile Power! (Hello, Happy World!)
-  - Y.O.L.O!!!!! (Afterglow)
-  - Your Gift To Me (Poppin'Party)
-  You can find a Spotify playlist of these songs here: https://open.spotify.com/playlist/0aoX4ggJyBqvbbmMYFkgqc
-- Fixed Turkish translations for private space in launcher. Now searching "özel alan" gets it working properly.
-- Fixed Turkish translations for GPS startup boost option in Lineage SetupWizard. Now vanilla builds will have proper bold markdown in its Turkish translation.
-- Upstreamed Floppy to v6.3.2.
+- Reverted Floppy kernel to 6.3.1 due to a bug with USB audio.
+- Finally working USB connection in recovery
+- Proper model reporting in places where marketname is supported
+- Flashlight tile is now click to expand instead of long press
+- Import Russian translations for Settings. Credit: @crazy_joker67 and @Alloyd031 on Telegram.
+- Change model detection logic in Settings > Security & Privacy > Device unlock > Fingerprint. Nothing changes for GApps users but vanilla users will see the proper model name in the info text at the very bottom instead of a generic "device". Also improves UX for users that use languages other than English (E.g. Turkish, where it said "device cihazınız").
+- More AOSP translation fixes for Turkish. Google, what have you done?!
+- Minor visual tweaks
