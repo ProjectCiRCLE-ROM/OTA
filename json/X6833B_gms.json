@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": "1782583610",
-      "filename": "ProjectCiRCLE-1.0-20260627_182202-BETA-GAPPS-X6833B.zip",
-      "id": "de7f5c893095de8a0d8c6940fa76082c",
+      "datetime": "1782666075",
+      "filename": "ProjectCiRCLE-1.0-20260628_171842-BETA-GAPPS-X6833B.zip",
+      "id": "10dac0e22ad1f640feb250c55aff93a1",
       "romtype":"BETA",
-      "size": 2419753171,
+      "size": 2419762927,
       "support": false,
-      "url": "https://sourceforge.net/projects/project-circle/files/X6833B/GAPPS/ProjectCiRCLE-1.0-20260627_182202-BETA-GAPPS-X6833B.zip/download",
+      "url": "https://sourceforge.net/projects/project-circle/files/X6833B/GAPPS/ProjectCiRCLE-1.0-20260628_171842-BETA-GAPPS-X6833B.zip/download",
       "version": "1.0.0",
       "updater": true,
       "maintainer": "akif"
