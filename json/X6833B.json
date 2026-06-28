@@ -1,0 +1,16 @@
+{
+  "response": [
+    {
+      "datetime": "1782648029",
+      "filename": "ProjectCiRCLE-1.0-20260628_122048-BETA-VANILLA-X6833B.zip",
+      "id": "1fdabe7a61d2e1f74c7332075762f349",
+      "romtype":"BETA",
+      "size": 1526256618,
+      "support": false,
+      "url": "https://sourceforge.net/projects/project-circle/files/X6833B/VANILLA/ProjectCiRCLE-1.0-20260628_122048-BETA-VANILLA-X6833B.zip/download",
+      "version": "1.0.0",
+      "updater": true,
+      "maintainer": "akif"
+    }
+  ]
+}
