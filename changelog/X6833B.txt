@@ -1,0 +1,4 @@
+Project CiRCLE v1.0-Beta2
+Build date: 28/06/2026
+Changelogs:
+- Initial build
