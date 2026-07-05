@@ -1,0 +1,16 @@
+{
+  "response": [
+    {
+      "datetime": "1783202776",
+      "filename": "ProjectCiRCLE-1.0-20260704_222606-RELEASE-VANILLA-X678B.zip",
+      "id": "8075b7c09ef2dc544b03cb71edbedb5b",
+      "romtype":"RELEASE",
+      "size": 1675525201,
+      "support": false,
+      "url": "https://sourceforge.net/projects/project-circle/files/X678B/VANILLA/ProjectCiRCLE-1.0-20260704_222606-RELEASE-VANILLA-X678B.zip/download",
+      "version": "1.0.0",
+      "updater": true,
+      "maintainer": "akif"
+    }
+  ]
+}

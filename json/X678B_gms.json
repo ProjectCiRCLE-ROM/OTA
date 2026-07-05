@@ -1,0 +1,16 @@
+{
+  "response": [
+    {
+      "datetime": "1783171827",
+      "filename": "ProjectCiRCLE-1.0-20260704_140339-RELEASE-GAPPS-X678B.zip",
+      "id": "54955498ae2481075aedeaa98c719f00",
+      "romtype":"RELEASE",
+      "size": 2463057427,
+      "support": false,
+      "url": "https://sourceforge.net/projects/project-circle/files/X678B/GAPPS/ProjectCiRCLE-1.0-20260704_140339-RELEASE-GAPPS-X678B.zip/download",
+      "version": "1.0.0",
+      "updater": true,
+      "maintainer": "akif"
+    }
+  ]
+}
