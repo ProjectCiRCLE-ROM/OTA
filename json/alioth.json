@@ -1,0 +1,16 @@
+{
+  "response": [
+    {
+      "datetime": "1783254182",
+      "filename": "ProjectCiRCLE-1.0-20260705_122956-OFFICIAL-VANILLA-alioth.zip",
+      "id": "ce5cc8778536eac0dc3b8fb185326d23",
+      "romtype":"OFFICIAL",
+      "size": 1619352370,
+      "support": false,
+      "url": "https://sourceforge.net/projects/project-circle/files/alioth/VANILLA/ProjectCiRCLE-1.0-20260705_122956-OFFICIAL-VANILLA-alioth.zip/download",
+      "version": "1.0.0",
+      "updater": true,
+      "maintainer": "itsaschoolbus"
+    }
+  ]
+}

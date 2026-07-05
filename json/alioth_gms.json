@@ -1,0 +1,16 @@
+{
+  "response": [
+    {
+      "datetime": "1783236516",
+      "filename": "ProjectCiRCLE-1.0-20260705_073629-OFFICIAL-GAPPS-alioth.zip",
+      "id": "6b014ac2af4d2b1f6a0a987da62a047a",
+      "romtype":"OFFICIAL",
+      "size": 2313763056,
+      "support": false,
+      "url": "https://sourceforge.net/projects/project-circle/files/alioth/GAPPS/ProjectCiRCLE-1.0-20260705_073629-OFFICIAL-GAPPS-alioth.zip/download",
+      "version": "1.0.0",
+      "updater": true,
+      "maintainer": "itsaschoolbus"
+    }
+  ]
+}
