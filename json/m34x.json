@@ -1,15 +1,15 @@
 {
   "response": [
     {
-      "datetime": "1782678889",
-      "filename": "ProjectCiRCLE-1.0-20260628_203805-BETA-VANILLA-m34x.zip",
-      "id": "81294332d6e1cf02037f209293b791c0",
-      "romtype":"BETA",
-      "size": 1286301028,
+      "datetime": "1783206570",
+      "filename": "ProjectCiRCLE-1.0-20260704_231317-OFFICIAL-VANILLA-m34x.zip",
+      "id": "bd2e6971b0cfe396576896326e667889",
+      "romtype": "OFFICIAL",
+      "size": 1312261491,
       "support": false,
-      "url": "https://sourceforge.net/projects/project-circle/files/m34x/VANILLA/ProjectCiRCLE-1.0-20260628_203805-BETA-VANILLA-m34x.zip/download",
+      "url": "https://sourceforge.net/projects/project-circle/files/m34x/VANILLA/ProjectCiRCLE-1.0-20260704_231317-OFFICIAL-VANILLA-m34x.zip/download",
       "version": "1.0.0",
-      "updater": true,
+      "updater": false,
       "maintainer": "kurtbahartr"
     }
   ]

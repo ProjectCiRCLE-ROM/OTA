@@ -1,3 +1,11 @@
+Project CiRCLE v1.0
+Build date: 05/07/2026
+Changelogs:
+- Add FM radio support (Audio on it doesn't work yet)
+- Conditional boot animation. Now the boot animation respects your system theme!
+- Conditional charging sounds. Now different sounds play when you plug in the phone in different percentages!
+- Fixes and improvements
+
 Project CiRCLE v1.0-Beta2
 Build date: 28/06/2026
 Changelogs:

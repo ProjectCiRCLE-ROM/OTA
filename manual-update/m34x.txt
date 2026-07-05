@@ -1,0 +1,9 @@
+If you landed here, you're on an unsupported version of Project CiRCLE and there's a breaking change you need to clean flash for.
+
+This build adds conditional charging sounds. To accomplish this, settings database was modified with new entries.
+
+Here's how you can clean flash:
+- Download ROM (Updater lets you export it)
+- Reboot to recovery
+- Flash the update
+- Factory reset
