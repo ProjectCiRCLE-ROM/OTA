@@ -9,7 +9,7 @@
       "support": false,
       "url": "https://sourceforge.net/projects/project-circle/files/m34x/GAPPS/ProjectCiRCLE-1.0-20260704_220224-OFFICIAL-GAPPS-m34x.zip/download",
       "version": "1.0.0",
-      "updater": false,
+      "updater": true,
       "maintainer": "kurtbahartr"
     }
   ]
