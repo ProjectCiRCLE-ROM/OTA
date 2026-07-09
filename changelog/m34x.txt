@@ -1,3 +1,8 @@
+Project CiRCLE v1.0.1
+Build date: 07/07/2026
+Changelogs:
+- Fixes and improvements
+
 Project CiRCLE v1.0
 Build date: 05/07/2026
 Changelogs:
@@ -20,7 +25,7 @@ Changelogs:
 
 Project CiRCLE v1.0-Beta2
 Build date: 27/06/2026
- Changelogs:
+Changelogs:
 - Imported ringtones, notification sound and alarm sound from Project Kasumi v2. Now the defaults are as follows:
   - Ringtone: Sasanqua (Afterglow)
   - Notification sound: Your Gift To Me (Poppin'Party)
