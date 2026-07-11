@@ -1,4 +1,11 @@
+Project CiRCLE v1.0.1
+Build date: 11/07/2026
+Changelogs:
+- nuke high touch polling rate
+- fixes and improvements
+
 Project CiRCLE v1.0
 Build date: 05/07/2026
 Changelogs:
-- Initial build.
+- initial build
+- convert XiaomiParts to m3e

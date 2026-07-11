@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": "1783236516",
-      "filename": "ProjectCiRCLE-1.0-20260705_073629-OFFICIAL-GAPPS-alioth.zip",
-      "id": "6b014ac2af4d2b1f6a0a987da62a047a",
+      "datetime": "1783740393",
+      "filename": "ProjectCiRCLE-1.0.1-20260711_032711-OFFICIAL-GAPPS-alioth.zip",
+      "id": "f1eb654f3b80a61b4623e65c27d95f65",
       "romtype":"OFFICIAL",
-      "size": 2313763056,
+      "size": 2313798076,
       "support": false,
-      "url": "https://sourceforge.net/projects/project-circle/files/alioth/GAPPS/ProjectCiRCLE-1.0-20260705_073629-OFFICIAL-GAPPS-alioth.zip/download",
-      "version": "1.0.0",
+      "url": "https://sourceforge.net/projects/project-circle/files/alioth/GAPPS/ProjectCiRCLE-1.0.1-20260711_032711-OFFICIAL-GAPPS-alioth.zip/download",
+      "version": "1.0.1",
       "updater": true,
       "maintainer": "itsaschoolbus"
     }
