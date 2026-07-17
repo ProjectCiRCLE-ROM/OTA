@@ -1,3 +1,11 @@
+Project CiRCLE v1.1.0
+Build date: 17/07/2026
+Changelogs:
+- Keep battery saver on while charging. Some OEMs (E.g. Samsung with One UI, Xiaomi with MIUI and HyperOS, Huawei with EMUI and HarmonyOS) have this feature where battery saver would stay on while the device is charging. We now implemented that feature with our own bare hands!
+- Dual channel support for SBC HD! Credits go to @Flopster101 for the patchset!
+- Merge Lineage repos. This includes ASB string bump to July 2026.
+- Fixes and improvements
+
 Project CiRCLE v1.0.1
 Build date: 07/07/2026
 Changelogs:
