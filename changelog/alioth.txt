@@ -1,3 +1,10 @@
+Project CiRCLE v1.1
+Build date: 20/07/2026
+Changelogs:
+- switch to e404 kernel
+- enable effcpu by default
+- thx khoictm for ota mirror
+
 Project CiRCLE v1.0.1
 Build date: 11/07/2026
 Changelogs:
