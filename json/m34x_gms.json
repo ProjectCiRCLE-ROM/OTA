@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": "1784268541",
-      "filename": "ProjectCiRCLE-1.1-20260717_061816-OFFICIAL-GAPPS-m34x.zip",
-      "id": "b0611355fc7e2d13cfff3a2d27dbe193",
+      "datetime": "1785137582",
+      "filename": "ProjectCiRCLE-1.1.1-20260727_073512-OFFICIAL-GAPPS-m34x.zip",
+      "id": "c7ec875f673da07e2c3bd7f5ff2ef8dd",
       "romtype":"OFFICIAL",
-      "size": 2280170027,
+      "size": 2280205672,
       "support": false,
-      "url": "https://sourceforge.net/projects/project-circle/files/m34x/GAPPS/ProjectCiRCLE-1.1-20260717_061816-OFFICIAL-GAPPS-m34x.zip/download",
-      "version": "1.1.0",
+      "url": "https://sourceforge.net/projects/project-circle/files/m34x/GAPPS/ProjectCiRCLE-1.1.1-20260727_073512-OFFICIAL-GAPPS-m34x.zip/download",
+      "version": "1.1.1",
       "updater": true,
       "maintainer": "kurtbahartr"
     }
