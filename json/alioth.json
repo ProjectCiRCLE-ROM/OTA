@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": "1783753662",
-      "filename": "ProjectCiRCLE-1.0.1-20260711_071151-OFFICIAL-VANILLA-alioth.zip",
-      "id": "7e3b0ca003a1da819abb9d8c69f40b73",
+      "datetime": "1784497623",
+      "filename": "ProjectCiRCLE-1.1-20260719_214921-OFFICIAL-VANILLA-alioth.zip",
+      "id": "620366878b8856503d3a93a3fc0ad352",
       "romtype":"OFFICIAL",
-      "size": 1620430630,
+      "size": 1609993981,
       "support": false,
-      "url": "https://sourceforge.net/projects/project-circle/files/alioth/VANILLA/ProjectCiRCLE-1.0.1-20260711_071151-OFFICIAL-VANILLA-alioth.zip/download",
-      "version": "1.0.1",
+      "url": "https://pjc.khoinet.dpdns.org/alioth/VANILLA/ProjectCiRCLE-1.1-20260719_214921-OFFICIAL-VANILLA-alioth.zip",
+      "version": "1.1.0",
       "updater": true,
       "maintainer": "itsaschoolbus"
     }
