@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": "1784273413",
-      "filename": "ProjectCiRCLE-1.1-20260717_073228-OFFICIAL-GAPPS-sapphire.zip",
-      "id": "4d764c072c2b8260d38cf5a08dc834f3",
+      "datetime": "1785134440",
+      "filename": "ProjectCiRCLE-1.1.1-20260727_065327-OFFICIAL-GAPPS-sapphire.zip",
+      "id": "00407c1ca3fb4c80534437cc8734d0b6",
       "romtype":"OFFICIAL",
-      "size": 2217164455,
+      "size": 2377388089,
       "support": false,
-      "url": "https://sourceforge.net/projects/project-circle/files/sapphire/GAPPS/ProjectCiRCLE-1.1-20260717_073228-OFFICIAL-GAPPS-sapphire.zip/download",
-      "version": "1.1.0",
+      "url": "https://sourceforge.net/projects/project-circle/files/sapphire/GAPPS/ProjectCiRCLE-1.1.1-20260727_065327-OFFICIAL-GAPPS-sapphire.zip/download",
+      "version": "1.1.1",
       "updater": true,
       "maintainer": "WibuRach:3"
     }
