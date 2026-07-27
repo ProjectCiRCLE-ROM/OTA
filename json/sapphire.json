@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": "1784278218",
-      "filename": "ProjectCiRCLE-1.1-20260717_085141-OFFICIAL-VANILLA-sapphire.zip",
-      "id": "53a1216838fe7087b6d13f0b49720c18",
+      "datetime": "1785142268",
+      "filename": "ProjectCiRCLE-1.1.1-20260727_085235-OFFICIAL-VANILLA-sapphire.zip",
+      "id": "7718b2dbb25049a3e76a6b9540d00ab6",
       "romtype":"OFFICIAL",
-      "size": 1431561857,
+      "size": 1585878674,
       "support": false,
-      "url": "https://sourceforge.net/projects/project-circle/files/sapphire/VANILLA/ProjectCiRCLE-1.1-20260717_085141-OFFICIAL-VANILLA-sapphire.zip/download",
-      "version": "1.1.0",
+      "url": "https://sourceforge.net/projects/project-circle/files/sapphire/VANILLA/ProjectCiRCLE-1.1.1-20260727_085235-OFFICIAL-VANILLA-sapphire.zip/download",
+      "version": "1.1.1",
       "updater": true,
       "maintainer": "WibuRach:3"
     }
