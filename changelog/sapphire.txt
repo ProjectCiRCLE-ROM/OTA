@@ -1,4 +1,10 @@
 Project CiRCLE v1.1.2
+Build date: 04/08/2026
+Changelogs:
+- Fixed the /data error (by @decarab14)
+- Fixes and improvements
+
+Project CiRCLE v1.1.2
 Build date: 01/08/2026
 Changelogs:
 - Fixes and improvements
