@@ -1,0 +1,16 @@
+{
+  "response": [
+    {
+      "datetime": "1785920507",
+      "filename": "ProjectCiRCLE-1.2-20260805_090255-OFFICIAL-VANILLA-rosemary.zip",
+      "id": "83b8770148efbfd1ee8c462e082dae93",
+      "romtype":"OFFICIAL",
+      "size": 1219133718,
+      "support": false,
+      "url": "https://sourceforge.net/projects/project-circle/files/rosemary/VANILLA/ProjectCiRCLE-1.2-20260805_090255-OFFICIAL-VANILLA-rosemary.zip/download",
+      "version": "1.2.0",
+      "updater": true,
+      "maintainer": "Pietroe43"
+    }
+  ]
+}
