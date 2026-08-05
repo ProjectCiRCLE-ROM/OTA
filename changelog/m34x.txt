@@ -1,3 +1,15 @@
+Project CiRCLE v1.2.0
+Build date: 05/08/2026
+Changelogs:
+- Remove IMS. This means no more VoLTE. A brand new IMS implementation will be worked on in the upcoming updates.
+- Remove FM Radio support. It wasn't present in stock and it wasn't working properly on our builds.
+- Backport AOSP 17 commit for developer options detection. This means no app will detect developer options and USB ADB. Apps like Shizuku should still keep working since they rely on wireless ADB.
+- Remove per-app hide developer options.
+- Update system updates app.
+- Merge Lineage repos
+- Bump security update string to 2026-08-01
+- Fixes and improvements
+
 Project CiRCLE v1.1.2
 Build date: 01/08/2026
 Changelogs:
