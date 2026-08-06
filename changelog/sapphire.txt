@@ -1,3 +1,8 @@
+Project CiRCLE v1.2.0
+Build date: 06/08/2026
+Changelogs:
+- Fixes and improvements
+
 Project CiRCLE v1.1.2
 Build date: 04/08/2026
 Changelogs:
