@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": "1784750363",
-      "filename": "ProjectCiRCLE-1.1-20260723_002317-OFFICIAL-VANILLA-bluejay.zip",
-      "id": "536c9b8b2a50eb3aa8a4bb7b9b3cbbe0",
+      "datetime": "1785955433",
+      "filename": "ProjectCiRCLE-1.2-20260805_185206-OFFICIAL-VANILLA-bluejay.zip",
+      "id": "c2be258d6020d5bffd3bbfb48bbbaafa",
       "romtype":"OFFICIAL",
-      "size": 1405987288,
+      "size": 1399760122,
       "support": false,
-      "url": "https://sourceforge.net/projects/project-circle/files/bluejay/VANILLA/ProjectCiRCLE-1.1-20260723_002317-OFFICIAL-VANILLA-bluejay.zip/download",
-      "version": "1.1.0",
+      "url": "https://sourceforge.net/projects/project-circle/files/bluejay/VANILLA/ProjectCiRCLE-1.2-20260805_185206-OFFICIAL-VANILLA-bluejay.zip/download",
+      "version": "1.2.0",
       "updater": true,
       "maintainer": "kurtbahartr"
     }

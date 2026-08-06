@@ -1,3 +1,16 @@
+Project CiRCLE v1.2.0
+Build date: 06/08/2026
+Changelogs:
+- Device config to disable closure of QUIC connections. This configuration is a workaround for a bug introduced on Android 16 where any app could "leak traffic outside the VPN tunnel".
+  Read more here: https://lowlevel.fun/posts/tiny-udp-cannon-android-vpn-bypass/
+  Summarized article by Mullvad VPN blog: https://mullvad.net/en/blog/any-app-on-recent-android-versions-can-leak-certain-traffic
+- Backport AOSP 17 commit for developer options detection. This means no app will detect developer options and USB ADB. Apps like Shizuku should still keep working since they rely on wireless ADB.
+- Remove per-app hide developer options.
+- Update system updates app.
+- Merge Lineage repos
+- Bump security update string to 2026-08-01
+- Fixes and improvements
+
 Project CiRCLE v1.1.0
 Build date: 23/07/2026
 Changelogs:

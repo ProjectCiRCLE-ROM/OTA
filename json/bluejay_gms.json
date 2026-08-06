@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": "1784794408",
-      "filename": "ProjectCiRCLE-1.1-20260723_083956-OFFICIAL-GAPPS-bluejay.zip",
-      "id": "14dde8805eb116c89c37f2a987d0bdda",
+      "datetime": "1785977855",
+      "filename": "ProjectCiRCLE-1.2-20260806_010407-OFFICIAL-GAPPS-bluejay.zip",
+      "id": "18270860be754fd85491066c5a34f6a8",
       "romtype":"OFFICIAL",
-      "size": 2098589632,
+      "size": 2096783437,
       "support": false,
-      "url": "https://sourceforge.net/projects/project-circle/files/bluejay/GAPPS/ProjectCiRCLE-1.1-20260723_083956-OFFICIAL-GAPPS-bluejay.zip/download",
-      "version": "1.1.0",
+      "url": "https://sourceforge.net/projects/project-circle/files/bluejay/GAPPS/ProjectCiRCLE-1.2-20260806_010407-OFFICIAL-GAPPS-bluejay.zip/download",
+      "version": "1.2.0",
       "updater": true,
       "maintainer": "kurtbahartr"
     }
