@@ -1,3 +1,19 @@
+Project CiRCLE v1.2
+Build date: 06/08/2026
+Changelogs:
+- switch to firefly kernel
+- fix some kernels not booting
+- set kawase dual filter v2 as default blur algorithm
+- device config to disable closure of quic connections. this configuration is a workaround for a bug introduced on android 16 where any app could "leak traffic outside the VPN tunnel".
+  read more here: https://lowlevel.fun/posts/tiny-udp-cannon-android-vpn-bypass/
+  summarized article by mullvad vpn blog: https://mullvad.net/en/blog/any-app-on-recent-android-versions-can-leak-certain-traffic
+- backport aosp 17 commit for developer options detection. this means no app will detect developer options and usb adb. apps like shizuku should still keep working since they rely on wireless adb.
+- remove per-app hide developer options.
+- update system updates app.
+- merge lineage repos
+- bump security update string to 2026-08-01
+- fixes and improvements
+
 Project CiRCLE v1.1
 Build date: 20/07/2026
 Changelogs:
