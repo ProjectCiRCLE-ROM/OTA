@@ -1,0 +1,18 @@
+[
+  {
+    "datetime": "1787219350",
+    "files": [
+      {
+        "filename": "ProjectCiRCLE-1.2-20260820_094916-OFFICIAL-GAPPS-a32.zip",
+        "os_patch_level": "2026-08-01",
+        "os_sdk_level": 36,
+        "ota_property_files": "metadata:69:318,metadata.pb:455:196                 ",
+        "sha256": "d35cf687a694656b1d88da99632ed21fe964c1ee8417ec02dc9d8f9332481ade",
+        "size": 2172187449,
+        "url": "https://sourceforge.net/projects/project-circle/files/a32/GAPPS/ProjectCiRCLE-1.2-20260820_094916-OFFICIAL-GAPPS-a32.zip/download",
+      }
+    ],
+    "type": "official",
+    "version": "1.2.0"
+  }
+]

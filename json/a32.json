@@ -1,0 +1,18 @@
+[
+  {
+    "datetime": "1787221391",
+    "files": [
+      {
+        "filename": "ProjectCiRCLE-1.2-20260820_102417-OFFICIAL-VANILLA-a32.zip",
+        "os_patch_level": "2026-08-01",
+        "os_sdk_level": 36,
+        "ota_property_files": "metadata:69:318,metadata.pb:455:196                 ",
+        "sha256": "f9c350490b625000c6c959b684aaf2b8d7ae6b68db938aa4bdbb079568d09f0e",
+        "size": 1405596993,
+        "url": "https://sourceforge.net/projects/project-circle/files/a32/VANILLA/ProjectCiRCLE-1.2-20260820_102417-OFFICIAL-VANILLA-a32.zip/download",
+      }
+    ],
+    "type": "official",
+    "version": "1.2.0"
+  }
+]
