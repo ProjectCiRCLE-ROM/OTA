@@ -1,0 +1,16 @@
+{
+  "response": [
+    {
+      "datetime": "1787194757",
+      "filename": "ProjectCiRCLE-1.2-20260820_030015-OFFICIAL-GAPPS-a32.zip",
+      "id": "de94a710e2049f7120d496d680900dc2",
+      "romtype":"OFFICIAL",
+      "size": 2181700700,
+      "support": false,
+      "url": "https://sourceforge.net/projects/project-circle/files/a32/GAPPS/ProjectCiRCLE-1.2-20260820_030015-OFFICIAL-GAPPS-a32.zip/download",
+      "version": "1.2.0",
+      "updater": true,
+      "maintainer": "ncatt"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "response": [
+    {
+      "datetime": "1787194757",
+      "filename": "ProjectCiRCLE-1.2-20260820_021303-OFFICIAL-VANILLA-a32.zip",
+      "id": "15a4582c457c8b8273cb3933398f3e19",
+      "romtype":"OFFICIAL",
+      "size": 1414620630,
+      "support": false,
+      "url": "https://sourceforge.net/projects/project-circle/files/a32/VANILLA/ProjectCiRCLE-1.2-20260820_021303-OFFICIAL-VANILL-a32.zip/download",
+      "version": "1.2.0",
+      "updater": true,
+      "maintainer": "ncatt"
+    }
+  ]
+}
